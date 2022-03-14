@@ -1,0 +1,6 @@
+[book]
+authors = ["ChAoS-UnItY"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CASC Lang Specification"
